@@ -24,7 +24,4 @@
 
 | 저장소 | 설명 | 상태 |
 |--------|------|------|
-| `guinness-core` | 서버 핵심 플러그인 | 🔨 개발 중 |
-| `guinness-sao` | SAO 테마 콘텐츠 플러그인 | 🔨 개발 중 |
-| `guinness-bot` | 디스코드 커뮤니티 봇 | 🔨 개발 중 |
-| `guinness-docs` | 내부 문서 및 위키 | 📝 작성 중 |
+| `ServerLog` | 플레이어의 각종 활동 및 서버 상태를 자동으로 로그로 남기는 서버 플러그인 | [✅ Link](https://github.com/GuinnessGroup/ServerLog) |
