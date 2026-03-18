@@ -20,7 +20,7 @@
 
 #### 📦 저장소 목록
 
-<img src="./repository-status.svg" alt="저장소 상태 범례"/>
+<img src="./repo-status.svg" alt="저장소 상태 범례"/>
 
 | 저장소 | 설명 | 상태 |
 |--------|------|------|
