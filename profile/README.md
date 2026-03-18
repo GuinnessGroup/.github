@@ -24,4 +24,4 @@
 
 | 저장소 | 설명 | 상태 |
 |--------|------|------|
-| `ServerLog` | 플레이어의 각종 활동 및 서버 상태를 자동으로 로그로 남기는 서버 플러그인 | [✅ Link](https://github.com/GuinnessGroup/ServerLog) |
+| `ServerLog` | 플레이어의 각종 활동 및 서버 상태를 자동으로 로그로 남기는 서버 플러그인 | [✅ Public](https://github.com/GuinnessGroup/ServerLog) |
